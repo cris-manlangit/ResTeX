@@ -1,17 +1,25 @@
-SQL (SQL Server, Oracle)
-| R
-| Shell Scripting (bash, cmd)
-| Tableau
-| SVN
-| Git
-| LaTeX
-| Azure DevOps
+\begin{addmargin}[1em]{0em}
+
+\begin{itemize}
+
+\setlength\itemsep{-2pt}
+
+\item {\subsectionfont Database:}
+SQL Server (SSIS, SSAS, SQL Server Agent, bcp), Oracle (APEX)
+
+\item {\subsectionfont Programming:}
+R, T-SQL, Bash/Zsh
+
+\item {\subsectionfont Data Visualization:}
+Tableau, R (ggplot)
+
+\item {\subsectionfont Version Control:}
+Git, Subversion (SVN)
+
+\item {\subsectionfont Documentation:}
+LaTeX, Markdown, Jupyter Notebook, Lucidchart
+
+% | Azure DevOps
 % | HTML
-| macOS
-| Windows
-| Linux
-| SSIS
-| SSAS
-| SQL Server Agent
-| Markdown
-| Lucidchart
+\end{itemize}
+\end{addmargin}
