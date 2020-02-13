@@ -5,7 +5,7 @@
 \setlength\itemsep{-2pt}
 
 \item {\subsectionfont Database:}
-SQL Server (SSIS, SSAS, SQL Server Agent, bcp), Oracle (APEX)
+SQL Server (SSIS, SSAS, SQL Server Agent, sqlcmd, bcp), Oracle (APEX)
 
 \item {\subsectionfont Programming:}
 R, T-SQL, Bash/Zsh
@@ -14,7 +14,7 @@ R, T-SQL, Bash/Zsh
 Tableau, R (ggplot)
 
 \item {\subsectionfont Version Control:}
-Git, Subversion (SVN)
+Git, Apache Subversion (SVN)
 
 \item {\subsectionfont Documentation:}
 LaTeX, Markdown, Jupyter Notebook, Lucidchart
