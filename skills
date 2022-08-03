@@ -1,25 +1,35 @@
-\begin{addmargin}[1em]{0em}
+% \begin{addmargin}[1em]{0em}
 
 \begin{itemize}
 
 \setlength\itemsep{-2pt}
 
-\item {\subsectionfont Database:}
-SQL Server (SSIS, SSAS, SQL Server Agent, sqlcmd, bcp), Oracle (APEX)
+% \item {\subsectionfont Database:}
+\item { Database:}
+Vertica, SQL Server (SSIS, SSAS), Oracle (APEX)
 
-\item {\subsectionfont Programming:}
-R, T-SQL, Bash/Zsh
+\item { Cloud:}
+AWS (Redshift Athena, s3, Lake Formation, EC2, Lambda, Glue)
 
-\item {\subsectionfont Data Visualization:}
-Tableau, R (ggplot)
+\item { Data Visualization:}
+Tableau, Amplitude, R (ggplot)
 
-\item {\subsectionfont Version Control:}
-Git, Apache Subversion (SVN)
+\item { Programming: }
+Bash/zsh, R, Python (working knowledge)
 
-\item {\subsectionfont Documentation:}
+
+\item { Version Control: }Git
+, Apache Subversion (SVN)
+
+
+\item { Documentation: }
 LaTeX, Markdown, Jupyter Notebook, Lucidchart
 
-% | Azure DevOps
-% | HTML
+\item { Certifications: }
+AWS Certified Cloud Practioner
+
+
+
 \end{itemize}
-\end{addmargin}
+
+% \end{addmargin}
