@@ -1,0 +1,52 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdftex 2021.3.30)  2 AUG 2022 12:30
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+! Undefined control sequence.
+l.1 \documentclass
+                  [12pt, letterpaper, twoside]{article}
+? 
+! Undefined control sequence.
+l.2 \usepackage
+               [utf8]{inputenc}
+? 
+! Undefined control sequence.
+l.4 \title
+          {First document}
+? 
+! Undefined control sequence.
+l.5 \author
+           {Hubert Farnsworth \thanks{funded by the Overleaf team}}
+? 
+! Undefined control sequence.
+l.5 \author{Hubert Farnsworth \thanks
+                                     {funded by the Overleaf team}}
+? 
+! Undefined control sequence.
+l.6 \date
+         {February 2014}
+? 
+! Undefined control sequence.
+l.8 \begin
+          {document}
+? 
+! Undefined control sequence.
+l.10 \begin
+           {titlepage}
+? 
+! Undefined control sequence.
+l.11 \maketitle
+               
+? 
+[1{/Users/cmanlangit/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.m
+ap}] )</Users/cmanlangit/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr10.pfb>
+Output written on main.pdf (1 page, 16620 bytes).
+PDF statistics:
+ 12 PDF objects out of 1000 (max. 8388607)
+ 7 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
